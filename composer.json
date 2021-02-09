@@ -22,10 +22,10 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
-        "symfony/dependency-injection": "^4.4|^5.0",
-        "symfony/framework-bundle": "^4.4|^5.0",
-        "symfony/security-bundle": "^4.4|^5.0",
+        "php": ">=8.0",
+        "symfony/dependency-injection": "^4.4|^5.2",
+        "symfony/framework-bundle": "^4.4|^5.2",
+        "symfony/security-bundle": "^4.4|^5.2",
         "friendsofsymfony/oauth2-php": "dev-symfony-5"
     },
     "require-dev": {
